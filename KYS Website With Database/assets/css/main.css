@@ -1,0 +1,239 @@
+
+.email a, .contactme a{
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-weight: 500;
+	font-size: 110%;
+}
+
+.email a:hover, .contactme a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+
+.margine_logo{
+	margin-top: 3.2vw;
+}
+
+.navbar-default {
+    background-color: #e5be8e !important;
+    margin-top: 5vw;
+}
+
+.navbar-header{
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.navbar-brand{
+	font-family: 'Cinzel', serif;
+	font-size: 12px !important;
+}
+
+.img_albero{
+	margin-top: 8vh;
+	margin-bottom: 16vh;
+	text-align: center;
+	color: white;
+	font-size: 2vw;
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.6;
+}
+.yoga_digitale{
+	position: absolute;
+	top: 23%;
+	right: 7%;
+	left: 70%;
+}
+.button2action{
+	margin-top: 120px;
+	margin-bottom: 60px;
+}
+.button2action a{
+	color: #4F4F4F;
+}
+.button2action a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+
+li a{
+	font-family: 'Cinzel', serif;
+	color: #000!important;
+	font-weight: 700;
+	font-size: 220%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+li a:hover{
+	color: #fff!important;
+		text-decoration: none;
+}
+
+.video{
+	margin-top: 93px!important;
+}
+
+.lezione h2{
+	font-family: 'Cinzel', serif;
+	color: #99775b!important;
+	font-weight: 700;
+	font-size: 300%;
+	margin-bottom: 100px;
+}
+
+.explain h6{
+	font-family: 'Cinzel', sans-serif;
+	color: #000;
+	font-weight: 550;
+	font-size: 22px;
+	margin-top: 8vh;
+}
+
+.sonoio{
+	margin-top: 15%;
+}
+
+.primo_piano{
+	margin-top: 18%;
+}
+
+.img_c{
+	margin-top: 18%;
+}
+
+.img_respirazione{
+	margin-top: 11%;
+}
+
+.corso h2{
+	font-family: 'Poppins', sans-serif;
+	color: #99775b;
+	font-weight: 800;
+	font-size: 48px;
+	margin-top: 100px;
+}
+
+.POP h2{
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-weight: 800;
+	font-size: 43px;
+	margin-top: 10vh;
+}
+
+.POP a{
+	color: #000;
+}
+
+.POP a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+
+.fas, .fab{
+	font-size: 90px;
+	color: #000;
+	float: left;
+	margin-top: 80px;
+}
+
+.row{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.emaila, .numero{
+	margin-top: 105px!important;
+}
+
+.emaila a, .numero a{	
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+}
+
+.emaila a:hover, .numero a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+
+.where{
+	background-color: #e5be8e;
+	margin-top: 100px;
+}
+
+.where h4{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	color: #411e00;
+	font-weight: 800;
+	font-size: 20px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+.iconette .fab {
+	color: #cc640e!important;
+}
+
+.iconette .fab:hover{
+	color: #686867!important;
+}
+
+.testo p{
+	color: #000;
+	font-weight: 400;
+	font-size: 18px;
+	margin-top: 60px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.bottone{
+	margin-top: 100px;
+}
+
+.bottone a{
+	color: #4F4F4F;
+}
+
+.bottone a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+.panel-default{
+	margin-top: 10vh;
+}
+
+.panel-heading{
+	font-size: 30px;
+}
+
+.panel-body{
+	font-size: 20px;
+}
+
+.poesia{
+	margin-top: 100px;
+}
+
+.abbonamento{
+	margin-top: 7vw;
+}
+
+.abbonamento a, .abbonamento input[type=submit]{
+	color: black;
+	font-weight: 600;
+	font-size: 25px;
+	text-decoration: none;
+	border: none;
+	background-color: transparent;
+}
+
+.abbonamento a:hover, .abbonamento input[type=submit]:hover{
+	color: #e5be8e;
+	text-decoration: none;
+}

@@ -1,0 +1,176 @@
+
+.email a, .contactme a{
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-weight: 500;
+	font-size: 110%;
+}
+
+.email a:hover, .contactme a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+
+.centratutto{
+	margin-top: 60px;
+}
+
+.img{
+	margin-top: 160px;
+	margin-bottom: 265px;
+	text-align: center;
+	color: white;
+	font-size: 2vw;
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.6;
+}
+.yoga_digitale{
+	position: absolute;
+	top: 19%;
+	right: 7%;
+	left: 70%;
+}
+
+.navbar-default {
+    background-color: #e5be8e !important;
+    margin-top: 95px;
+}
+
+li a{
+	font-family: 'Cinzel', serif;
+	color: #000!important;
+	font-weight: 700;
+	font-size: 220%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+li a:hover{
+	color: #fff!important;
+		text-decoration: none;
+}
+
+.video{
+	margin-top: 93px!important;
+}
+
+.lesson h5{
+	font-family: 'Cinzel', serif;
+	color: #99775b!important;
+	font-weight: 700;
+	font-size: 300%;
+	margin-bottom: 100px;
+}
+
+.explain h6{
+	font-family: 'Cinzel', sans-serif;
+	color: #000;
+	font-weight: 550;
+	font-size: 22px;
+	margin-top: 50px;
+}
+
+.corso h5{
+	font-family: 'Poppins', sans-serif;
+	color: #99775b;
+	font-weight: 800;
+	font-size: 48px;
+	margin-top: 100px;
+}
+
+ .contattami h2{
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-weight: 800;
+	font-size: 43px;
+	margin-top: 170px;
+}
+
+.fas, .fab{
+	font-size: 90px;
+	color: #000;
+	float: left;
+	margin-top: 80px;
+}
+
+.row{
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.emaila, .numero{
+	margin-top: 95px!important;
+}
+.emaila a, .numero a{	
+	font-family: 'Poppins', sans-serif;
+	color: #000;
+	font-weight: 300;
+	font-size: 20px;
+
+}
+
+.emaila a:hover, .numero a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
+
+.where{
+	background-color: #e5be8e;
+	margin-top: 100px;
+}
+
+.where h4{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	color: #411e00;
+	font-weight: 800;
+	font-size: 20px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+ .iconette .fab {
+	color: #cc640e!important;
+	 margin-left: 35px;
+}
+
+.iconette .fab:hover{
+	color: #686867!important;
+}
+#background{
+	width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../images/backr.png");
+    background-repeat: repeat-x;
+	margin-top: 150px;
+}
+.testino p{
+	color: #000;
+	font-weight: 400;
+	font-size: 18px;
+	margin-top: 90px;
+	font-family: 'Poppins', sans-serif;
+}
+.sonoio{
+	margin-top: 200px;
+}
+.imgc{
+	margin-top: 145px;
+}
+.img_annacarla{
+	margin-top: 85px;
+}
+.bottone{
+	margin-top: 140px;
+}
+
+.bottone a{
+	color: #4F4F4F;
+}
+
+.bottone a:hover{
+	color: #cc640e;
+	text-decoration: none;
+}
